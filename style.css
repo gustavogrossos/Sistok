@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik';
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+  
+
+}
+
+.top{
+    width: 100vw;
+    height: 108px;
+    justify-content: center;
+    align-items: center;  
+}
+
+.top > img{
+    width: 153.99px;
+    height: 38px;
+}
+
+nav {
+    width: 100vw;
+    height: 108px;
+}
+
+.top img{
+    justify-content: center;
+    position: absolute;
+    left: 72px;
+    top: 35px;
+}
+
+nav ul{
+    position: absolute;
+    left: 560px;
+    top: 44px;
+    width: 700px;
+    height: 49px;
+    display: inline-block;
+}
+
+nav li{
+    display: inline-flex;
+    margin-right:70px;
+    font-size: 16px;
+    
+
+}
+
+nav a{
+    text-decoration: none;
+    color: #4C5D73;
+}
+
+.top p{
+    position: absolute; left: 1468px; top: 44px;
+    width: 196px;
+    height: 19px;
+    display: inline-block;
+}
+
+.top p > a{
+    color: #304F8C;
+    font-weight: 600;
+    display: inline-block;
+    align-items: center;
+    text-decoration: none;
+}
+
+.cadastro{
+    position: absolute; left: 1658px; top: 32px;
+    width: 150px; height: 44px;
+    border-radius: 8px;
+    border-color: #304F8C;
+    background: #FFFF;
+    border-style: outside;
+    text-shadow: none;
+    box-shadow: none;
+    color: #304F8C;
+    font-size: 16px;
+    font-weight: 600;
+    border-style: solid;
+}
+
+.hero{
+    border: solid 2px red;
+    position: absolute; left: 72px; top: 127px;
+    width: 1780px;
+    height: 521px;
+}
