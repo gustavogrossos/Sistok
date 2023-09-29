@@ -113,7 +113,7 @@ nav a{
 }
 
 .hero > img{
-    position: absolute; left: 776px; top: 127px;
+    position: absolute; left: 1306px; top: 127px;
     width: 432px; height: 349px;
 }
 
@@ -129,14 +129,26 @@ nav a{
 }
 
 .retangulo{
-    border: solid 2px red;
     position: absolute; top: 524px;
     width: 1780px; height: 124px;
     border-radius: 10px;
 }
 
 .img_4{
-    border: solid 2px red;
-    position: absolute; letft: 940px; trop: 556px;
+    position: absolute; left: 1390px; top: 50px;
     width: 180px; height: 59px;
+}
+
+.img_3{
+    position: absolute; left: 990px; top: 50px;
+    width: 190px; height: 59px;
+}
+
+.img_2{
+    position: absolute; left: 590px; top: 50px;
+    width: 164px; height: 59px;
+}
+
+.img_1{
+    border: solid red 2px;
 }
