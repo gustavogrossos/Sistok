@@ -95,3 +95,48 @@ nav a{
     width: 1780px;
     height: 521px;
 }
+
+.hero > h1{
+    position: absolute; left: 72px; top: 167px;
+    width: 523px; height: 112px;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 56px;
+}
+
+.hero > p{
+    position: absolute; left: 72px; top: 295px;
+    width: 527px; height: 48px;
+    color: #4C5D73;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.hero > img{
+    position: absolute; left: 776px; top: 127px;
+    width: 432px; height: 349px;
+}
+
+.conhecer{
+    position: absolute; left: 72px; top: 375px;
+    width: 250px; height: 60px;
+    background-color: #304F8C;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFFFFF
+}
+
+.retangulo{
+    border: solid 2px red;
+    position: absolute; top: 524px;
+    width: 1780px; height: 124px;
+    border-radius: 10px;
+}
+
+.img_4{
+    border: solid 2px red;
+    position: absolute; letft: 940px; trop: 556px;
+    width: 180px; height: 59px;
+}
