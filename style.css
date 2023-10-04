@@ -182,8 +182,6 @@ nav a{
     font-size: 16px;
     font-weight: normal;
     color: #4C5D73;
-    letter-spacing: 3px;
-
 }
 
 .servicos > h2{
@@ -283,4 +281,255 @@ nav a{
     font-weight: bold;
     border-style: solid;
 
+}
+
+.atuacao{
+    position: absolute; top: 1972px;
+    width: 1780px; height: 424px;
+}
+
+.atuacao > h1{
+    width: 82px; height: 56px;
+    color: #4C5D73;
+    font-weight: 400;
+    font-size: medium;
+}
+
+.atuacao > h2{
+    width: 858px; height: 40px;
+    font-size: 32px;
+    font-weight: 600;
+    position: relative; bottom: 30px
+}
+
+#bares{
+    position: absolute; top: 151px;
+}
+
+#restaurante{
+    position: absolute; top: 151px; left: 500px;
+}
+
+#mercearias{
+    position: absolute; top: 151px; left: 1000px;
+}
+
+#adegas{    
+    position: absolute; top: 151px; left: 1500px;
+}
+
+.planos{
+    position: absolute; top: 2447px; 
+    width: 1780px; height: 454px;
+}
+
+.planos > h1{
+    width: 70px; height: 56px;
+    color: #4C5D73;
+    font-weight: 400;
+    font-size: medium;
+}
+
+.planos > h2{
+    width: 858px; height: 40px;
+    font-size: 32px;
+    font-weight: 600;
+    position: relative; bottom: 30px
+}
+
+#iniciante{
+    position: absolute; top: 115px;
+    width: 268px; height: 288px;
+}
+
+#basico{
+    position: absolute; top: 115px; left: 500px; 
+    width: 268px; height: 288px;
+}
+
+#essencial{
+    position: absolute; top: 115px; left: 1000px;
+    width: 268px; height: 309px;
+}
+
+#grande{
+    position: absolute; top: 115px; left: 1500px; 
+    width: 268px; height: 288px;
+}
+
+.comentarios{
+    position: absolute; top: 2944.2px;
+    width: 1780px; height: 425.8px;
+}
+
+.comentarios > img{
+    position: absolute; left: 300px;
+    width: 1170px; height: 725.8px;
+}
+
+.footer{
+    position: absolute; top: 3866px;
+    width: 1780px; height: 351px;
+    background-color: #111826;
+}
+
+.recursos{
+    position: absolute; left: 72px; top: 80px;
+    width: 97px; height: 226px;
+    color: #FFFFFF;
+}
+
+.recursos > h1{
+    width: 85; height: 40px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#commerce{
+    position: relative; top: 10px;
+    width: 97px; height: 40px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 300;
+    padding: 50px 0px;
+    color: #FFFFFF;
+}
+
+#comercio{
+    position: relative; top: 20px;
+    width: 97px; height: 40px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 300;
+    color: #FFFFFF;  
+}
+
+#servico{
+    position: relative; top: 30px;
+    width: 97px; height: 40px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 300;
+    color: #FFFFFF;  
+}
+
+#atuacao{
+    position: relative; top: 40px;
+    width: 97px; height: 40px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 300;
+    color: #FFFFFF;  
+}
+
+#ajuda{
+    position: relative; top: 50px;
+    width: 97px; height: 40px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 300;
+    color: #FFFFFF;  
+}
+
+.precos{
+    position: absolute; left: 372px; top: 80px;
+    width: 183px; height: 158px;
+    color: #FFFFFF;
+}
+
+.precos > h1{
+    width: 63; height: 40px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#planos{
+    position: relative; top: 10px;
+    width: 51px; height: 40px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 300;
+    color: #FFFFFF;
+}
+
+#comprar{
+    position: relative; top: 18px;
+    width: 183px; height: 40px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 300;
+    color: #FFFFFF;
+    display: block;
+}
+
+#comparar{
+    position: relative; top: 6px;
+    width: 127px; height: 40px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 300;
+    color: #FFFFFF;
+    display: block;
+}
+
+.contato{
+    position: absolute; left: 672px; top: 80px;
+    width: 100px; height: 90px;
+    color: #FFFFFF;
+}
+
+.contato > h1{
+    width: 74px; height: 40px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.contato > a{
+    position: relative; top: 10px;
+    width: 51px; height: 40px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 300;
+    color: #FFFFFF;
+}
+
+.institucional{
+    position: absolute; left: 972px; top: 80px;
+    width: 169px; height: 158px;
+    color: #FFFFFF;
+}
+
+.institucional > h1{
+    width: 115px; height: 40px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#sobre{
+    position: relative; top: 10px;
+    width: 51px; height: 40px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 300;
+    color: #FFFFFF;
+}
+
+#trabalhe{
+    position: relative; top: 20px;
+    width: 131px; height: 40px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 300;
+    color: #FFFFFF; 
+    display: block;
+}
+
+#politica{
+    position: relative; top: 6px;
+    width: 131px; height: 40px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 300;
+    color: #FFFFFF; 
+    display: block;
 }
