@@ -124,7 +124,14 @@ nav a{
     border-style: none;
     font-size: 16px;
     font-weight: bold;
-    color: #FFFFFF
+    color: #FFFFFF;
+
+}
+
+.bi{
+    width: 19px; height: 10px;
+    position: relative; left: 4px;
+    color: #304F8C;
 }
 
 .retangulo{
@@ -381,7 +388,7 @@ nav a{
 
 .recursos > h1{
     width: 85; height: 40px;
-    font-size: 25px;
+    font-size: 18px;
     font-weight: 600;
 }
 
@@ -439,7 +446,7 @@ nav a{
 
 .precos > h1{
     width: 63; height: 40px;
-    font-size: 25px;
+    font-size: 18px;
     font-weight: 600;
 }
 
@@ -480,7 +487,7 @@ nav a{
 
 .contato > h1{
     width: 74px; height: 40px;
-    font-size: 25px;
+    font-size: 18px;
     font-weight: 600;
 }
 
@@ -532,4 +539,67 @@ nav a{
     font-weight: 300;
     color: #FFFFFF; 
     display: block;
+}
+
+.assine{
+    width: 290px; height: 135px;
+    position: absolute; left: 1300px; top: 80px;
+}
+
+.assine > h1{
+    width: 224px; height: 40px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFFFFF;
+    display: block;
+}
+
+.assine > input{
+    width: 290px; height: 40px;
+    border-radius: 6px;
+    font-size: medium;
+    color: #111826;
+    padding-left: 20px;
+    outline: none;
+}
+
+.barra{
+
+    position: absolute; top: 300px;
+    width: 1780px; height: 1px;
+    background-color: #EAEDF3;
+}
+
+.barra > p{
+    position: absolute; top: 15px; left: 800px;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 100;
+}
+
+.ni{
+    color: #111826;
+    position: relative; bottom: 28px; left: 260px;
+    font-size: 15px;
+}
+
+.redes{
+    width: 202px; height: 18.59px;
+    position: absolute; left: 3px;
+    color: #FFFFFF;
+}
+
+.bii{
+    font-size: 23px;
+    padding-right: 10px;
+}
+
+.bl{
+    font-size: 23px;
+    padding-right: 10px;    
+}
+
+.bf{
+    font-size: 23px;
+    padding-right: 10px;
 }
